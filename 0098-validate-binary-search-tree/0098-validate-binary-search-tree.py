@@ -5,29 +5,18 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def iterative_inorder(self, root):
-        st = [(root, False)]
-        result = []
-
-        while st:
-            temp, flag = st.pop()
-
-            if flag:
-                result.append(temp.val)
-            else:
-                if temp.right:
-                    st.append((temp.right, False))
-                if temp.left:
-                    st.append((temp, True))
-                    st.append((temp.left, False))
-                else:
-                    result.append(temp.val)
-        return result
+    def _inorder(self, root, mylist):
+        if not root:
+            return
+        self._inorder(root.left, mylist)
+        mylist.append(root.val)
+        self._inorder(root.right, mylist)
 
     def isValidBST(self, root: TreeNode) -> bool:
         if not root:
             return True
-        mylist = self.iterative_inorder(root)
+        mylist = []
+        self._inorder(root, mylist)
         return mylist == sorted(set(mylist))
         
         
