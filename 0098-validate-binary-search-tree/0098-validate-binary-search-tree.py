@@ -5,32 +5,29 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def _dfs(self, root, val, child):
-        if not root:
-            return True
-        import collections
-        queue = collections.deque()
-        queue.append(root)
+    def iterative_inorder(self, root):
+        st = [(root, False)]
+        result = []
 
-        while queue:
-            curr = queue.popleft()
-            if child == 'left' and curr.val >= val:
-                return False
-            elif child == 'right' and curr.val <= val:
-                return False
-            if curr.left:
-                queue.append(curr.left)
-            if curr.right:
-                queue.append(curr.right)
-        return True
+        while st:
+            temp, flag = st.pop()
+
+            if flag:
+                result.append(temp.val)
+            else:
+                if temp.right:
+                    st.append((temp.right, False))
+                if temp.left:
+                    st.append((temp, True))
+                    st.append((temp.left, False))
+                else:
+                    result.append(temp.val)
+        return result
 
     def isValidBST(self, root: TreeNode) -> bool:
         if not root:
             return True
-        l = self._dfs(root.left, root.val, 'left')
-        r = self._dfs(root.right, root.val, 'right')
-        if not l or not r:
-            return False
-        return self.isValidBST(root.left) and self.isValidBST(root.right)
+        mylist = self.iterative_inorder(root)
+        return mylist == sorted(set(mylist))
         
         
