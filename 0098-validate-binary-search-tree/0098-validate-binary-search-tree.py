@@ -5,18 +5,18 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def _inorder(self, root, mylist):
-        if not root:
-            return
-        self._inorder(root.left, mylist)
-        mylist.append(root.val)
-        self._inorder(root.right, mylist)
 
     def isValidBST(self, root: TreeNode) -> bool:
-        if not root:
-            return True
-        mylist = []
-        self._inorder(root, mylist)
-        return mylist == sorted(set(mylist))
+        def validate(node, low=float('-inf'), high=float('inf')):
+            # An empty node is valid
+            if not node:
+                return True
+            # Check if the current node's value is within the valid range
+            if not (low < node.val < high):
+                return False
+            # Recursively validate the left and right subtrees
+            return validate(node.left, low, node.val) and validate(node.right, node.val, high)
+        
+        return validate(root)
         
         
