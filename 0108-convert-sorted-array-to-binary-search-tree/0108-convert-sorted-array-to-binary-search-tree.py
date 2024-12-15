@@ -5,37 +5,20 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def _insert(self, root, val):
-        if not root:
-            return TreeNode(val)
-
-        current = root
-        while current:
-            if val < current.val:
-                if not current.left:
-                    current.left = TreeNode(val)
-                    break
-                current = current.left
-            elif val > current.val:
-                if not current.right:
-                    current.right = TreeNode(val)
-                    break
-                current = current.right
-        return root
-
     def sortedArrayToBST(self, nums):
-        root = None
-        def binary_search2(arr, l, r):
+        if not nums:
+            return None
+
+        def bs(arr, l, r):
             if l > r:
-                return
+                return None
 
             mid = (l + r) // 2
-            if arr[mid] is not None:
-                nonlocal root
-                root = self._insert(root, arr[mid])
-                arr[mid] = None
-            binary_search2(arr, l, mid - 1)
-            binary_search2(arr, mid + 1, r)
-        binary_search2(nums, 0, len(nums) - 1)
-        return root
-        
+            node = TreeNode(arr[mid])
+
+            node.left = bs(arr, l, mid - 1)
+            node.right = bs(arr, mid + 1, r)
+
+            return node
+
+        return bs(nums, 0, len(nums) - 1)
