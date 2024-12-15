@@ -6,17 +6,16 @@
 #         self.right = right
 class Solution:
     def kthSmallest(self, root, k: int) -> int:
-        def inorder(arr, root, k):
+        def inorder(root):
             if not root:
                 return
 
-            if len(arr) == k:
-                return
-            inorder(arr, root.left, k)
-            arr.append(root.val)
-            inorder(arr, root.right, k)
+            yield from inorder(root.left)
+            yield root.val
+            yield from inorder(root.right)
 
-        mylist = []
-        inorder(mylist, root, k)
-        return mylist[k - 1]
+        gen = inorder(root)
+        for _ in range(k):
+            result = next(gen)
+        return result
         
