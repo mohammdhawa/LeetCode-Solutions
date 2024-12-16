@@ -7,14 +7,13 @@
 
 class Solution:
     def lowestCommonAncestor(self, root, p, q):
-        temp = root
         
-        while temp:
-            if p.val < temp.val and q.val < temp.val:
-                temp = temp.left
-            elif p.val > temp.val and q.val > temp.val:
-                temp = temp.right
+        while root:
+            if p.val < root.val and q.val < root.val:
+                root = root.left
+            elif p.val > root.val and q.val > root.val:
+                root = root.right
             else:
-                return temp
-        return temp
+                return root
+        return root
         
