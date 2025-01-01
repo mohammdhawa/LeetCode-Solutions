@@ -6,15 +6,6 @@ class Trie:
     def letter_index(self, letter):
         return ord(letter) - ord('a')
 
-    def insert_r(self, str, idx=0):
-        if idx == len(str):
-            self.is_end = True
-        else:
-            curr = self.letter_index(str[idx])
-            if self.child[curr] is None:
-                self.child[curr] = Trie()
-            self.child[curr].insert(str, idx + 1)
-
     def insert(self, str):
         curr = self
 
@@ -25,36 +16,6 @@ class Trie:
             curr = curr.child[letter_index]
 
         curr.is_end = True
-
-    def prefix_exists(self, str, idx=0):
-        if idx == len(str):
-            return True
-
-        curr = self.letter_index(str[idx])
-        if self.child[curr] is None:
-            return False
-
-        return self.child[curr].prefix_exists(str, idx + 1)
-
-    def word_exists(self, str, idx=0):
-        if idx == len(str):
-            return self.is_end
-
-        curr = self.letter_index(str[idx])
-        if self.child[curr] is None:
-            return False
-
-        return self.child[curr].word_exists(str, idx + 1)
-
-    def search_word(self, word):
-        curr = self
-
-        for l in word:
-            l_idx = self.letter_index(l)
-            if curr.child[l_idx] is None:
-                return False
-            curr = curr.child[l_idx]
-        return curr.is_end
 
     def prefix(self, prefix):
         if self.child[self.letter_index(prefix[0])] is None:
@@ -72,13 +33,6 @@ class Trie:
             curr = curr.child[l_idx]
 
         return (True, word) if curr.is_end else (False, '')
-
-
-
-
-
-    def get_trie(self):
-        return self.child
 
 
 class Solution:
