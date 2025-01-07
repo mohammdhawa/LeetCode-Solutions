@@ -16,6 +16,7 @@
 | [0098-validate-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0676-implement-magic-dictionary](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0988-flip-equivalent-binary-trees](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
@@ -47,12 +48,19 @@
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
 ## String
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
 ## Trie
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
+## Design
+|  |
+| ------- |
+| [0676-implement-magic-dictionary](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
 <!---LeetCode Topics End-->
