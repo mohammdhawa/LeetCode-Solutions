@@ -9,7 +9,7 @@ class Solution:
         node = head
         ht = {}
         while node:
-            if node in ht:
+            if ht.get(node) is not None:
                 return True
             ht[node] = 1
             node = node.next
