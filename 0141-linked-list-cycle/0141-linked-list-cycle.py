@@ -7,11 +7,11 @@
 class Solution:
     def hasCycle(self, head) -> bool:
         node = head
-        ht = set()
+        ht = {}
         while node:
             if node in ht:
                 return True
-            ht.add(node)
+            ht[node] = 1
             node = node.next
         return False
         
