@@ -6,14 +6,19 @@ class WordFilter:
         for idx, word in enumerate(words):
             for i in range(len(word) + 1):
                 suff = word[i:]
-                for i in range(len(word) + 1):
-                    pref = word[:i]
-                    key = f"{suff}#{pref}"
-                    if key not in self.dictionary:
-                        self.dictionary[key] = [idx]
-                    else:
-                        self.dictionary[key].append(idx)
+                if suff not in self.dictionary:
+                    self.dictionary[suff] = {'words': [word], 'index': [idx]}
+                else:
+                    self.dictionary[suff]['words'].append(word)
+                    self.dictionary[suff]['index'].append(idx)
 
     def f(self, pref: str, suff: str) -> int:
-        return max(self.dictionary.get(suff + '#' + pref, [-1]))
-
+        if suff not in self.dictionary:
+            return -1
+        
+        words = self.dictionary[suff]['words'][::-1]
+        index = self.dictionary[suff]['index'][::-1]
+        for idx, word in enumerate(words):
+            if word.startswith(pref):
+                return index[idx]
+        return -1
