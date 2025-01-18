@@ -41,6 +41,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0648-replace-words](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0746-prefix-and-suffix-search](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0746-prefix-and-suffix-search) |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,4 +86,12 @@
 |  |
 | ------- |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+## Math
+|  |
+| ------- |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+## Number Theory
+|  |
+| ------- |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 <!---LeetCode Topics End-->
