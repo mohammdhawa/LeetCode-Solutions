@@ -21,6 +21,8 @@ class Solution:
         for i in range(low, high + 1):
             if is_prime(i):
                 square = i ** 2
+                if square > r:
+                    break
                 if l <= square <= r:
                     count += 1
 
