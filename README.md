@@ -64,6 +64,7 @@
 | [0746-prefix-and-suffix-search](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0746-prefix-and-suffix-search) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2391-strong-password-checker-ii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2391-strong-password-checker-ii) |
 ## Trie
 |  |
 | ------- |
