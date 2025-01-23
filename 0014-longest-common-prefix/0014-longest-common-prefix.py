@@ -4,17 +4,17 @@ class Solution:
 
     def _insert(self, word):
         curr = self.trie
-        wrd = ""
         for letter in word:
-            wrd += letter
             if letter not in curr:
                 curr[letter] = {}
-            if len(curr) == 1 and letter not in curr:
-                return wrd
             curr = curr[letter]
+        curr['#'] = True
 
 
     def longestCommonPrefix(self, strs):
+        if not strs:
+            return ""
+
         _min = len(strs[0])
         wrd = strs[0]
         for word in strs:
@@ -26,10 +26,8 @@ class Solution:
         curr = self.trie
         result = ""
         for letter in wrd:
-            if letter not in curr:
-                return result
-            if len(curr) > 1:
-                return result
+            if len(curr) != 1 or '#' in curr:
+                break
             result += letter
             curr = curr[letter]
         return result
