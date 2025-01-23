@@ -4,9 +4,13 @@ class Solution:
 
     def _insert(self, word):
         curr = self.trie
+        wrd = ""
         for letter in word:
+            wrd += letter
             if letter not in curr:
                 curr[letter] = {}
+            if len(curr) == 1 and letter not in curr:
+                return wrd
             curr = curr[letter]
 
 
