@@ -5,24 +5,19 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def _height(self, root):
-        if root is None:
-            return 0
-        left = self._height(root.left)
-        right = self._height(root.right)
-        return max(left, right) + 1
-
     def levelOrderBottom(self, root):
         if not root:
             return []
         from collections import deque
 
-        result = [[] for _ in range(self._height(root))]
+        result = []
         queue = deque()
         queue.append((root, 0))
 
         while queue:
             node, level = queue.popleft()
+            if level == len(result):
+                result.append([])
             result[level].append(node.val)
             if node.left:
                 queue.append((node.left, level + 1))
