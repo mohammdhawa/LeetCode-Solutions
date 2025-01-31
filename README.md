@@ -9,6 +9,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 ## Depth-First Search
@@ -18,6 +19,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0676-implement-magic-dictionary](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Stack
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
