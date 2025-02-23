@@ -46,6 +46,7 @@
 | [0648-replace-words](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0746-prefix-and-suffix-search](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0746-prefix-and-suffix-search) |
 | [0948-sort-an-array](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1306-minimum-absolute-difference](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [2169-simple-bank-system](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
@@ -109,6 +110,7 @@
 ## Math
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1230-maximum-of-absolute-value-expression) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1306-minimum-absolute-difference](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -158,4 +161,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
