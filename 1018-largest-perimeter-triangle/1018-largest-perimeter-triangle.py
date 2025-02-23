@@ -24,6 +24,7 @@ class Solution:
                 return False
             return True
         max_perimeter = 0
+        nums.reverse()
         for i in range(len(nums) - 2):
             if valid(nums[i], nums[i + 1], nums[i + 2]):
                 x = sum(nums[i:i + 3])
