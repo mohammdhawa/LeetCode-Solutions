@@ -50,6 +50,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1306-minimum-absolute-difference](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2169-simple-bank-system](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2350-find-closest-number-to-zero](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2350-find-closest-number-to-zero) |
@@ -143,6 +144,7 @@
 | [0948-sort-an-array](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1306-minimum-absolute-difference](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -169,4 +171,5 @@
 | ------- |
 | [0561-array-partition](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 <!---LeetCode Topics End-->
