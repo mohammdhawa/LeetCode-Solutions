@@ -44,6 +44,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0561-array-partition](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0648-replace-words](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0746-prefix-and-suffix-search](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0746-prefix-and-suffix-search) |
 | [0948-sort-an-array](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0948-sort-an-array) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2232-adding-spaces-to-a-string](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 ## Counting
@@ -133,6 +135,7 @@
 ## Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Bit Manipulation
 |  |
@@ -142,6 +145,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0948-sort-an-array](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -172,7 +176,12 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
