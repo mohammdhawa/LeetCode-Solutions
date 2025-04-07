@@ -52,6 +52,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1306-minimum-absolute-difference](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2169-simple-bank-system](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -150,6 +151,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1306-minimum-absolute-difference](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 ## Heap (Priority Queue)
 |  |
