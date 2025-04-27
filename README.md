@@ -40,6 +40,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0436-find-right-interval](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0853-most-profit-assigning-work](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 ## Array
@@ -123,6 +124,7 @@
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1230-maximum-of-absolute-value-expression) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
