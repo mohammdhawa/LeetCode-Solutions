@@ -8,8 +8,11 @@ class Solution:
         while l <= r:
             mid = l + (r - l) // 2
             if mid * (mid + 1) // 2 <= n:
-                result.append(mid)
+                if result and result[-1] < mid:
+                    result.append(mid)
+                else:
+                    result.append(mid)
                 l = mid + 1
             else:
                 r = mid - 1
-        return max(result)
+        return result[-1]
