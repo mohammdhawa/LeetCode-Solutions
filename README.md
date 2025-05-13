@@ -41,6 +41,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0436-find-right-interval](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0441-arranging-coins) |
+| [0475-heaters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0475-heaters) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0853-most-profit-assigning-work](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -50,6 +51,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0436-find-right-interval](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0475-heaters) |
 | [0561-array-partition](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0648-replace-words](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0648-replace-words) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0475-heaters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0475-heaters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-most-profit-assigning-work](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -157,6 +160,7 @@
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0475-heaters) |
 | [0561-array-partition](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-most-profit-assigning-work](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
