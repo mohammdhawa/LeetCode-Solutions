@@ -15,6 +15,8 @@ class Solution:
                 if bouquet == k:
                     bouquets_count += 1
                     bouquet = 0
+                if bouquets_count == m:
+                    return bouquets_count
 
             return bouquets_count
 
@@ -22,8 +24,7 @@ class Solution:
         result = 0
         while l <= r:
             mid = l + (r - l) // 2
-            temp = check_bouquets_count(mid)
-            if temp >= m:
+            if check_bouquets_count(mid) >= m:
                 result = mid
                 r = mid - 1
             else:
