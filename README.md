@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -132,6 +133,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
