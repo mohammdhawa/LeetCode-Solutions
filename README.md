@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0676-implement-magic-dictionary](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0436-find-right-interval](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0475-heaters) |
 | [0561-array-partition](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0561-array-partition) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0690-employee-importance](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0733-flood-fill) |
 ## Stack
@@ -221,5 +224,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0733-flood-fill) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
