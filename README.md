@@ -25,6 +25,7 @@
 | [0733-flood-fill](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
+| [2035-count-sub-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2035-count-sub-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2169-simple-bank-system](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -164,6 +166,7 @@
 | [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0690-employee-importance](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [2035-count-sub-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 ## Stack
 |  |
 | ------- |
@@ -226,8 +229,10 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [2035-count-sub-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [2035-count-sub-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
