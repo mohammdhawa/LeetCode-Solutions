@@ -25,6 +25,7 @@
 | [0733-flood-fill](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1104-coloring-a-border](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1104-coloring-a-border) |
 | [2035-count-sub-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
@@ -71,6 +72,7 @@
 | [0948-sort-an-array](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1104-coloring-a-border](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1104-coloring-a-border) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1306-minimum-absolute-difference](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -166,6 +168,7 @@
 | [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0690-employee-importance](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1104-coloring-a-border](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1104-coloring-a-border) |
 | [2035-count-sub-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 ## Stack
 |  |
@@ -229,6 +232,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1104-coloring-a-border](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1104-coloring-a-border) |
 | [2035-count-sub-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
