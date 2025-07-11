@@ -26,6 +26,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1104-coloring-a-border](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1104-coloring-a-border) |
+| [1308-smallest-string-with-swaps](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -78,6 +79,7 @@
 | [1104-coloring-a-border](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1104-coloring-a-border) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1306-minimum-absolute-difference](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
+| [1308-smallest-string-with-swaps](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1380-number-of-closed-islands) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -104,6 +106,7 @@
 | [0676-implement-magic-dictionary](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0690-employee-importance](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0746-prefix-and-suffix-search](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0746-prefix-and-suffix-search) |
+| [1308-smallest-string-with-swaps](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2169-simple-bank-system](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -115,6 +118,7 @@
 | [0648-replace-words](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0746-prefix-and-suffix-search) |
+| [1308-smallest-string-with-swaps](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2232-adding-spaces-to-a-string](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -176,6 +180,7 @@
 | [0690-employee-importance](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1104-coloring-a-border](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1104-coloring-a-border) |
+| [1308-smallest-string-with-swaps](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
@@ -200,6 +205,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1306-minimum-absolute-difference](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
+| [1308-smallest-string-with-swaps](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 ## Heap (Priority Queue)
@@ -249,6 +255,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [1308-smallest-string-with-swaps](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
