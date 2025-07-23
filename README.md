@@ -94,6 +94,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2350-find-closest-number-to-zero](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2486-most-frequent-even-element](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Divide and Conquer
 |  |
@@ -114,6 +115,7 @@
 | [2169-simple-bank-system](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2486-most-frequent-even-element](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 ## String
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2486-most-frequent-even-element](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 ## Math
 |  |
 | ------- |
