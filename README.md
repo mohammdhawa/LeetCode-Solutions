@@ -164,6 +164,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1230-maximum-of-absolute-value-expression) |
+| [2857-total-distance-traveled](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2857-total-distance-traveled) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Number Theory
@@ -175,6 +176,7 @@
 | ------- |
 | [2169-simple-bank-system](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2857-total-distance-traveled](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2857-total-distance-traveled) |
 ## Breadth-First Search
 |  |
 | ------- |
