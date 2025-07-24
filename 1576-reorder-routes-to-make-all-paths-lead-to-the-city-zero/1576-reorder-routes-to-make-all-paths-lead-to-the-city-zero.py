@@ -1,7 +1,7 @@
 class Solution:
     def minReorder(self, n: int, connections: list[list[int]]) -> int:
         from collections import defaultdict
-        graph = defaultdict(list)
+        graph = {i: [] for i in range(n)}
         visited = [False for _ in range(n)]
         count = 0
 
