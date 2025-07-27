@@ -16,15 +16,15 @@ class Solution:
         def dfs(i, j, h):
             visited[i][j] = True
             if i == rows - 1 and j == cols - 1:
-                return
+                return True
 
             for dx, dy in [(0, -1), (0, 1), (-1, 0), (1, 0)]:
                 n_i, n_j = i + dx, j + dy
                 if not valid_position(n_i, n_j) or visited[n_i][n_j]: continue
 
-                path = abs(heights[n_i][n_j] - heights[i][j])
-                if path <= h:
-                    dfs(n_i, n_j, h)
+                if abs(heights[n_i][n_j] - heights[i][j]) <= h:
+                    if dfs(n_i, n_j, h): return True
+            return False
 
         l, r = 0, 10**6
         result = r
@@ -33,8 +33,7 @@ class Solution:
             reset_visited()
             mid = l + (r - l) // 2
 
-            dfs(0, 0, mid)
-            if visited[-1][-1]:
+            if dfs(0, 0, mid):
                 r = mid - 1
                 if result > mid:
                     result = mid
@@ -43,4 +42,3 @@ class Solution:
 
 
         return result
-
