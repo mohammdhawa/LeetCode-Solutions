@@ -8,6 +8,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0690-employee-importance](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0690-employee-importance) |
@@ -19,6 +20,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -43,6 +45,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -151,6 +154,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
@@ -192,6 +196,7 @@
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0690-employee-importance](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0733-flood-fill) |
