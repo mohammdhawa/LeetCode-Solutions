@@ -104,6 +104,7 @@
 | [2035-count-sub-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2169-simple-bank-system](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
+| [2183-minimum-operations-to-convert-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2183-minimum-operations-to-convert-number) |
 | [2232-adding-spaces-to-a-string](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2350-find-closest-number-to-zero](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -215,6 +216,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
+| [2183-minimum-operations-to-convert-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2183-minimum-operations-to-convert-number) |
 ## Stack
 |  |
 | ------- |
