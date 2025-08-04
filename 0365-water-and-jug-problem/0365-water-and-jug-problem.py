@@ -3,7 +3,10 @@ class Solution:
         if target == 0 or target == x + y:
             return True
 
-        queue = [(0, 0)]
+        from collections import deque
+
+        queue = deque()
+        queue.append((0, 0))
         visited = set()
 
         def pour(from_amt, from_cap, to_amt, to_cap):
@@ -13,7 +16,7 @@ class Solution:
             return new_from_amt, new_to_amt
 
         while queue:
-            j1, j2 = queue.pop(0)
+            j1, j2 = queue.popleft()
 
             if j1 + j2 == target:
                 return True
@@ -27,3 +30,7 @@ class Solution:
                     queue.append((i, j))
 
         return False
+
+s = Solution()
+print(s.canMeasureWater(1, 2, 3))
+
