@@ -24,6 +24,7 @@
 | [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0365-water-and-jug-problem](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0676-implement-magic-dictionary](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0690-employee-importance](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0690-employee-importance) |
@@ -182,6 +183,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0365-water-and-jug-problem](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0441-arranging-coins](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -206,6 +208,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0365-water-and-jug-problem](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0690-employee-importance](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0733-flood-fill) |
