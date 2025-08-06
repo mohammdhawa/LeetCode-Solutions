@@ -88,6 +88,7 @@
 | [0733-flood-fill](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0746-prefix-and-suffix-search](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0753-open-the-lock) |
+| [0787-sliding-puzzle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0853-most-profit-assigning-work](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0948-sort-an-array](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -213,6 +214,7 @@
 | [0690-employee-importance](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0753-open-the-lock) |
+| [0787-sliding-puzzle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [1104-coloring-a-border](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1104-coloring-a-border) |
 | [1308-smallest-string-with-swaps](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
@@ -288,6 +290,7 @@
 | [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [1104-coloring-a-border](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1104-coloring-a-border) |
 | [1380-number-of-closed-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -328,4 +331,16 @@
 | [1827-invalid-tweets](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+## Backtracking
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+## Memoization
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 <!---LeetCode Topics End-->
