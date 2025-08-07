@@ -99,6 +99,7 @@
 | [1308-smallest-string-with-swaps](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1380-number-of-closed-islands) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -219,6 +220,7 @@
 | [1104-coloring-a-border](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1104-coloring-a-border) |
 | [1308-smallest-string-with-swaps](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1380-number-of-closed-islands) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Database
 |  |
