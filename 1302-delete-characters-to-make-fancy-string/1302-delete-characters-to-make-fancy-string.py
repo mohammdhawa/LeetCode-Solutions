@@ -3,23 +3,11 @@ class Solution:
         if len(s) < 3:
             return s
 
-        prev = s[0]
-        count = 1
-        i = 1
-        result = prev
+        result = ''
 
-        while i < len(s):
-            if prev == s[i]:
-                count += 1
-            else:
-                prev = s[i]
-                count = 1
-
-            i += 1
-
-            if count > 2:
+        for ch in s:
+            if len(result) >= 2 and result[-1] == result[-2] == ch:
                 continue
-            else:
-                result += prev
+            result += ch
 
         return result
