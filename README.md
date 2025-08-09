@@ -334,6 +334,7 @@
 | [1390-average-selling-price](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1390-average-selling-price) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1811-fix-names-in-a-table](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
