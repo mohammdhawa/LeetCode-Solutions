@@ -22,6 +22,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0365-water-and-jug-problem](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
@@ -211,6 +212,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0365-water-and-jug-problem](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0690-employee-importance](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0690-employee-importance) |
@@ -314,6 +316,7 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -352,4 +355,8 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
