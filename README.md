@@ -122,6 +122,7 @@
 | [2480-find-subarrays-with-equal-sum](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Divide and Conquer
 |  |
@@ -319,6 +320,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 ## Union Find
 |  |
 | ------- |
