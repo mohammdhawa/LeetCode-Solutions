@@ -160,6 +160,7 @@
 | [0753-open-the-lock](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0753-open-the-lock) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2232-adding-spaces-to-a-string](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -208,6 +209,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1230-maximum-of-absolute-value-expression) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2857-total-distance-traveled](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2857-total-distance-traveled) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -404,4 +406,8 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2176-parallel-courses-iii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2176-parallel-courses-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
