@@ -210,6 +210,7 @@
 | [0365-water-and-jug-problem](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0441-arranging-coins](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0804-rotated-digits](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0804-rotated-digits) |
 | [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -390,6 +391,7 @@
 | [0096-unique-binary-search-trees](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-sliding-puzzle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0804-rotated-digits](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0804-rotated-digits) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2176-parallel-courses-iii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2176-parallel-courses-iii) |
 ## Backtracking
