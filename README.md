@@ -147,6 +147,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2169-simple-bank-system](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2475-largest-palindromic-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2475-largest-palindromic-number) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -165,6 +166,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2391-strong-password-checker-ii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2391-strong-password-checker-ii) |
+| [2475-largest-palindromic-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2475-largest-palindromic-number) |
 ## Trie
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2475-largest-palindromic-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2475-largest-palindromic-number) |
 | [2486-most-frequent-even-element](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 ## Math
 |  |
@@ -308,6 +311,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2475-largest-palindromic-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2475-largest-palindromic-number) |
 ## Monotonic Stack
 |  |
 | ------- |
