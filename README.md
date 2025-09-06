@@ -206,6 +206,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0365-water-and-jug-problem](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0441-arranging-coins](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0441-arranging-coins) |
@@ -390,6 +391,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-sliding-puzzle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
@@ -403,6 +405,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-sliding-puzzle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
