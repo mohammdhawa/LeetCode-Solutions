@@ -156,6 +156,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0227-basic-calculator-ii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0648-replace-words](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0746-prefix-and-suffix-search) |
@@ -209,6 +210,7 @@
 | [0069-sqrtx](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0227-basic-calculator-ii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0365-water-and-jug-problem](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0441-arranging-coins](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -262,6 +264,7 @@
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Bit Manipulation
