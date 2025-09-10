@@ -121,6 +121,7 @@
 | [2176-parallel-courses-iii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2176-parallel-courses-iii) |
 | [2183-minimum-operations-to-convert-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2183-minimum-operations-to-convert-number) |
 | [2232-adding-spaces-to-a-string](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2350-find-closest-number-to-zero](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
@@ -282,6 +283,7 @@
 | [1308-smallest-string-with-swaps](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Heap (Priority Queue)
 |  |
@@ -314,6 +316,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2475-largest-palindromic-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2475-largest-palindromic-number) |
 | [2663-distribute-money-to-maximum-children](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2663-distribute-money-to-maximum-children) |
 ## Monotonic Stack
