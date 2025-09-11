@@ -76,6 +76,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0853-most-profit-assigning-work](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Array
@@ -110,6 +111,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1428-jump-game-iii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -337,6 +339,7 @@
 | [0971-shortest-bridge](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0971-shortest-bridge) |
 | [1104-coloring-a-border](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1104-coloring-a-border) |
 | [1380-number-of-closed-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1380-number-of-closed-islands) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
