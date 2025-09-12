@@ -154,6 +154,7 @@
 | [2480-find-subarrays-with-equal-sum](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2391-strong-password-checker-ii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2391-strong-password-checker-ii) |
 | [2475-largest-palindromic-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2475-largest-palindromic-number) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2475-largest-palindromic-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2475-largest-palindromic-number) |
 | [2486-most-frequent-even-element](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
