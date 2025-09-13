@@ -99,6 +99,7 @@
 | [0753-open-the-lock](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0753-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0853-most-profit-assigning-work](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
+| [0926-find-and-replace-pattern](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0971-shortest-bridge](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0971-shortest-bridge) |
 | [1018-largest-perimeter-triangle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -145,6 +146,7 @@
 | [0690-employee-importance](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0746-prefix-and-suffix-search](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0753-open-the-lock) |
+| [0926-find-and-replace-pattern](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0926-find-and-replace-pattern) |
 | [1308-smallest-string-with-swaps](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -164,6 +166,7 @@
 | [0676-implement-magic-dictionary](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0746-prefix-and-suffix-search](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0753-open-the-lock) |
+| [0926-find-and-replace-pattern](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0926-find-and-replace-pattern) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
