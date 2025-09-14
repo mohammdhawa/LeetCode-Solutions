@@ -130,6 +130,7 @@
 | [2486-most-frequent-even-element](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2675-find-the-width-of-columns-of-a-grid) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Divide and Conquer
 |  |
@@ -436,4 +437,8 @@
 |  |
 | ------- |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
