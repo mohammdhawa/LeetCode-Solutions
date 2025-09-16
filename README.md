@@ -132,6 +132,7 @@
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [2480-find-subarrays-with-equal-sum](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
