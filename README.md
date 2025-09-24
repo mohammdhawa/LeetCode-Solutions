@@ -69,6 +69,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0436-find-right-interval](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0475-heaters) |
@@ -86,6 +87,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0436-find-right-interval](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0436-find-right-interval) |
@@ -411,6 +413,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0300-longest-increasing-subsequence](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-sliding-puzzle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0804-rotated-digits](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0804-rotated-digits) |
