@@ -89,6 +89,7 @@
 | [0200-number-of-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0436-find-right-interval](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0475-heaters) |
@@ -415,6 +416,7 @@
 | [0096-unique-binary-search-trees](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0300-longest-increasing-subsequence](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0787-sliding-puzzle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0804-rotated-digits](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0804-rotated-digits) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
