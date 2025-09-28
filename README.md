@@ -111,6 +111,7 @@
 | [1230-maximum-of-absolute-value-expression](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1306-minimum-absolute-difference](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1308-smallest-string-with-swaps](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1380-number-of-closed-islands](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1380-number-of-closed-islands) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -298,6 +299,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1306-minimum-absolute-difference](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1308-smallest-string-with-swaps](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -419,6 +421,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0787-sliding-puzzle](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0804-rotated-digits](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0804-rotated-digits) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2176-parallel-courses-iii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2176-parallel-courses-iii) |
 ## Backtracking
