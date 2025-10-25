@@ -1,24 +1,17 @@
 class Solution:
     def largestWordCount(self, messages: List[str], senders: List[str]) -> str:
         from collections import defaultdict
-        max_n_words = {}
-        max_n = 0
 
-        for message, sender in zip(messages, senders):
-            n_words_message = len(message.split(' '))
-            if max_n < n_words_message:
-                max_n = n_words_message
-            if sender not in max_n_words:
-                max_n_words[sender] = n_words_message
-            else:
-                max_n_words[sender] += n_words_message
-                if max_n < max_n_words[sender]:
-                    max_n = max_n_words[sender]
+        word_counts = defaultdict(int)
 
-        result = []
+        for msg, sender in zip(messages, senders):
+            word_counts[sender] += msg.count(' ') + 1
 
-        for key, val in max_n_words.items():
-            if val == max_n:
-                result.append(key)
+        best_sender = None
+        best_count = -1
 
-        return sorted(result)[-1]
+        for sender, count in word_counts.items():
+            if count > best_count or (count == best_count and sender > best_sender):
+                best_sender, best_count = sender, count
+
+        return best_sender
