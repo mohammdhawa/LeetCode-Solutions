@@ -139,6 +139,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2232-adding-spaces-to-a-string](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Counting
 |  |
 | ------- |
@@ -309,11 +311,13 @@
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1753-path-with-minimum-effort) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Merge Sort
 |  |
 | ------- |
@@ -343,6 +347,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2475-largest-palindromic-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2475-largest-palindromic-number) |
 | [2663-distribute-money-to-maximum-children](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2663-distribute-money-to-maximum-children) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Monotonic Stack
 |  |
 | ------- |
