@@ -233,6 +233,7 @@
 | [0070-climbing-stairs](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0227-basic-calculator-ii](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0319-bulb-switcher](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0441-arranging-coins](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -464,4 +465,8 @@
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
