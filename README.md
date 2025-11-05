@@ -158,6 +158,7 @@
 | [0753-open-the-lock](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0753-open-the-lock) |
 | [0926-find-and-replace-pattern](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/0926-find-and-replace-pattern) |
 | [1308-smallest-string-with-swaps](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2169-simple-bank-system](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
@@ -182,6 +183,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2232-adding-spaces-to-a-string](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -463,6 +465,7 @@
 |  |
 | ------- |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/mohammdhawa/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Enumeration
 |  |
 | ------- |
